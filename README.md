@@ -1,8 +1,8 @@
-.net framework相关程序；
+# .net framework相关程序；
 
 # ReleaseNExamples
 
-更新事件 2024-11-14
+更新时间 2024-11-14
 
 # AppNTools 应用程序和工具
 
